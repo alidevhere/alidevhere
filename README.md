@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Mohammad Ali Ashraf here. Student of Computer Science from University of Engineering and Technology (UET) Lahore.
 
 ![Mohammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingLover12&theme=tokyonight&show_icons=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingLover12&hide=python&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingLover12&layout=compact&theme=tokyonight)
