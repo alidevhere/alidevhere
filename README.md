@@ -40,7 +40,9 @@
 
 | Repository | Role |Language|description|
 |---|---|---|---|
-|[go-github](https://github.com/google/go-github)|contibutor|Go|Go library for accessing the GitHub v3 API|
+|[go-github](https://github.com/google/go-github/pull/2604/files)|contibutor|Go|Go library for accessing the GitHub v3 API|
+|[gorm](https://github.com/go-gorm/gorm/pull/6337/files)|contibutor|Go|The fantastic ORM library for Golang, aims to be developer friendly|
+|[larry](https://github.com/ezeoleaf/larry/pull/122/files)|contibutor|Go|Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers|
 |[go-fast-downloader](https://github.com/alidevhere/go-fast-downloader)|owner/maintainer|Go|Go fast downloader package with concurrency support|
 |[go_balancer](https://github.com/alidevhere/go_balancer)|owner/maintainer|Go|Go balancer is out of box load balancer for any type of task|
 |[go-safe-counter](https://github.com/alidevhere/go-safe-counter)|owner/maintainer|Go|Go safe counter is a counter which can be used by multiple go routines at same time|
@@ -59,7 +61,7 @@
 
 
 <br>
-<h2>My Technical Writings </h2>
+<h2>Articles i have authored </h2>
 When i get time i try to share my views and my learnings with others. Some of articles i have written on medium are :
 
 |Topics|
@@ -71,18 +73,11 @@ When i get time i try to share my views and my learnings with others. Some of ar
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://alidevhere.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href = 'https://www.linkedin.com/in/alidevhere/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/ali_dev_here'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<!-- <a href = 'https://www.twitter.com/ali_dev_here'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  -->
 <a href = 'https://www.github.com/alidevhere'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://medium.com/@ali_dev_here'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://alidevhere.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-
-<!--
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rana_dev&compact=True"/>
-</a>
--->
+<a href = 'https://alidevhere.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 </br>
 
 <h2>My Stats</h2>
